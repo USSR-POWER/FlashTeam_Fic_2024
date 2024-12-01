@@ -66,5 +66,4 @@ streamlit run interface.py
 
 ## Полезные ссылки
 - [Репозиторий модели на Hugging Face](https://huggingface.co/USSR-POWER/FlashTeam)
-- [Документация `huggingface_hub`](https://huggingface.co/docs/huggingface_hub)
 
